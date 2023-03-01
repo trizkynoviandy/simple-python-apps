@@ -7,10 +7,15 @@ To get started, you will need to have Python installed on your computer. You can
 
 Once you have installed Python, you can clone this repository to your local machine using the following command:
 
+```
+git clone https://github.com/trizkynoviandy/simple-python-apps.git
+```
+
 ## Contents
 The repository contains the following Python applications:
 
-Application 1: Simple GUI Calculator
+Application 1: Simple GUI Calculator  
+  
 Application ....
 
 ## Contributing
